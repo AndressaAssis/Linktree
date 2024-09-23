@@ -22,7 +22,7 @@ Para clonar e executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/AndressaAssis/Linktree.git
+   git clone https://github.com/seu-usuario/Linktree.git
    ```
 2. Navegue até o diretório do projeto:
 ```bash
